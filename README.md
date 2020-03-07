@@ -1,3 +1,7 @@
 # Github
 Here are laid out laboratory on Frontend
-Student PS-12 Andrey Moshkin
+Участники: Student PS-12 Andrey Moshkin 
+
+Социальные сети: 	https://vk.com/m_andreu
+Почта:				iandreu.m@outlook.com
+					iandreudota@gmail.com
